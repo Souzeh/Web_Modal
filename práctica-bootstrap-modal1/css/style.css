@@ -1,0 +1,21 @@
+.bg-secondary,
+.btn-secondary {
+	background: #e0bcaa !important;
+	border: 0;
+}
+
+.bg-primary,
+.btn-primary {
+	background: #b6816f !important;
+	border: 0;
+}
+
+.pb-6 {
+	padding-bottom: 70px;
+}
+
+.desserts {
+	background: url('../images/showcase.jpg');
+	background-repeat: no-repeat;
+	background-position: bottom right;
+}
